@@ -1,3 +1,3 @@
 # react template
 ## TODO
-[ ] Find a good example
+- [ ] Find a good example
